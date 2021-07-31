@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+j	java:S116"PRename this field "EmpId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÑú—ûÿÿÿÿ
+l	java:S116"RRename this field "EmpName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èö­Œùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿áœ¦
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öîÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ˆ™ê³úÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
